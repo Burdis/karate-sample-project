@@ -85,7 +85,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>exemptions.RTECRunner</mainClass>
+                            <mainClass>exemptions.example.KarateRunner</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

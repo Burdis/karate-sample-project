@@ -1,0 +1,9 @@
+.idea
+rtec.iml
+target
+.settings
+*.DS_Store
+c:/
+Users/
+karate-sample-project.iml
+*.iml

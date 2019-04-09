@@ -16,7 +16,7 @@ import java.util.List;
 import static org.junit.Assert.assertTrue;
 
 @CucumberOptions(tags = { "~@ignore" })
-public class ExemptionsTest {
+public class ExampleTest {
 	@Test
 	public void testParallel() {
 		String karateOutputPath = "target/surefire-reports";

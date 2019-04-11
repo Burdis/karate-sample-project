@@ -1,5 +1,5 @@
 @tag
-Feature: Gateway search defaulter active exemption found
+Feature: Example POST and GET requests in Karate
 
   Background:
     * url baseUrl
